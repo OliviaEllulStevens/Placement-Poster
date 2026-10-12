@@ -5,6 +5,15 @@ This experience has inspired me to pursue a post-grad research career in psychop
 
 I look forward to continuing my research during my summer project and dissertation.
 
+## Acknowledgements
+I would like to thank my excellent supervisor, **Dr. Sophie Forster**, for all her support and expertise throughout my year. Huge thank you to PhD student **Charles Havill** for his invaluable EEG training, mentorship, and guidance. 
+
+It was lovely to work alongside RA **Jolie McWilliams**, whose support and friendship were comforting throughout the year.
+
+Big thank you to all members of the shared lab space - notably PhD student **Katerina Tampouraki**, who made long lab days enjoyable and statistics easy to understand. Furthermore, I would love to thank **Dr. Lucy Somers** for all her continual support with MATLAB and EEG data collection.
+
+I am grateful to have been able to take part in many outreach events, including those for **Prof. Sarah King**. It was great to promote brain health and demonstrate Human-COmputer Interfaces to children through a Royal Society Grant alongside **Oliver Collins**.
+
 ## References 
 Baron-Cohen, S., Wheelwright, S., Skinner, R., Martin, J., & Clubley, E. (2001). The autism-spectrum quotient (AQ): Evidence from Asperger syndrome/high-functioning autism, males and females, scientists and mathematicians. Journal of Autism and Developmental Disorders, 31(1), 5–17. https://doi.org/10.1023/a:1005653411471
 
@@ -17,5 +26,3 @@ Kessler, R. C., Adler, L., Ames, M., Demler, O., Faraone, S., Hiripi, E., Howes,
 Kim, S., Baek, J. H., Kwon, Y. J., Lee, H. Y., Yoo, J. H., Shim, S., & Kim, J. S. (2021). Machine-learning-based diagnosis of drug-naive adult patients with attention-deficit hyperactivity disorder using mismatch negativity. Translational Psychiatry, 11(1), 484. https://doi.org/10.1038/s41398-021-01604-3
 
 Pulvermüller, F., & Shtyrov, Y. (2006). Language outside the focus of attention: The mismatch negativity as a tool for studying higher cognitive processes. Progress in Neurobiology, 79(1), 49–71. https://doi.org/10.1016/j.pneurobio.2006.04.004
-
-
